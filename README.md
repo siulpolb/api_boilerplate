@@ -1,7 +1,7 @@
-#API REST Boilerplate
-##Technologies
--Express
--Joi
--JWT
--Mongoose
--Nodemailer
+#  REST Boilerplate
+## Technologies
+- Express
+- Joi
+- JWT
+- Mongoose
+- Nodemailer
