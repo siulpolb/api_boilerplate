@@ -1,5 +1,19 @@
 public/docs
 
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+# vi
+*~
+
 # Logs
 logs
 *.log
